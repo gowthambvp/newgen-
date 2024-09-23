@@ -47,9 +47,9 @@ const Navbar = () => {
                 <img src={Logo} alt='' />
             </div>
             <div className='navbar-links-container'>
-                <a href=''>Home</a>
-                <a href=''>About</a>
-                <a href=''>Testimoinals</a>
+                <a href=''>Home </a>
+                <a href=''>About </a>
+                <a href=''>Testimoinals </a>
                 <a href=''>contact</a>
                 <a href=''><BsCart2 className='navbar-cart-icon' /></a>
                 <button className='primary-button' >Bookings Now</button>
